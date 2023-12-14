@@ -1,29 +1,36 @@
-<h1 align="center">Hi 👋, I'm Suraj Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋 Suraj Patil is here</h1>
+<h3 align="center">🚀 Welcome to my GitHub space! I'm passionate Full-stack Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack, where I bring both frontend and backend components to life.
+</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
 
-- 🔭 I’m currently working on **Deep fake video detection**
+- 🔭 I’m currently working on **Deep fake video detection using Deep learning**
 
-- 🌱 I’m currently learning **React Js ,Data structure and algo**
+- 🌱 I’m currently learning **React Js ,Data structure and algo also basic of Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://suraj1849.github.io/Portfolio_Suraj_Patil/](https://suraj1849.github.io/Portfolio_Suraj_Patil/)
 
-- 💬 Ask me about **Front End Developement ,OOP,DBMS**
+- 💬 Ask me about **Front End Developement ,OOP languages and MySQL db**
 
 - 📫 How to reach me **surajpatil110110@gmail.com**
-
-- 📄 Know about my experiences [https://suraj1849.github.io/Portfolio_Suraj_Patil/](https://suraj1849.github.io/Portfolio_Suraj_Patil/)
 
 - ⚡ Fun fact **I think i am so frank to talk on tech domain and collaborative work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-patil-718453250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-patil-718453250" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/suraj%20patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/suraj%20patil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/surajpatil110110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/surajpatil110110" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suraj_patil110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suraj_patil110/" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/suraj%20patil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/suraj-patil-718453250" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/surajpatil110110" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/suraj_patil110" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj1849&show_icons=true&locale=en" alt="suraj1849" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj1849&" alt="suraj1849" /></p>
+
+
+
