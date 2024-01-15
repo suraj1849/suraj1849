@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Welcome to my GitHub space! I'm passionate Full-stack Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack, where I bring both frontend and backend components to life.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1849&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1849" /> </p>
 - 🔭 I’m currently working on **Deep fake video detection using Deep learning**
 
 - 🌱 I’m currently learning **React Js ,Data structure and algo also basic of Deep learning**
@@ -33,6 +33,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suraj1849&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suraj1849&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
